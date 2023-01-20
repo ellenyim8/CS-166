@@ -1,2 +1,7 @@
 # CS-166
-Labs
+
+## Lab 1 - ER Diagram
+
+## Lab 2 
+
+
