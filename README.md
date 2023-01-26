@@ -1,7 +1,5 @@
 # CS-166
 
-## Lab 1 - ER Diagram
-
-## Lab 2 
+## Labs from Database and Management Systems course at UCR 
 
 
