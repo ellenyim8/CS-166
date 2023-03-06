@@ -1,0 +1,14 @@
+Query time without indexes
+Query1: 7.818 ms
+Query2: 16.011 ms
+Query3: 72.275 ms
+Query4: 55.314 ms
+Query5: 117.288 ms
+Query6: 14.145 ms
+Query time with indexes
+Query1: 3.607 ms
+Query2: 15.104 ms
+Query3: 25.128 ms
+Query4: 48.081 ms
+Query5: 403.026 ms
+Query6: 7.013 ms
